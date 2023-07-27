@@ -1,5 +1,4 @@
 Summary
-
 - [shadowing-local](#shadowing-local) (3 results) (Low)
 - [events-maths](#events-maths) (1 results) (Low)
 - [variable-scope](#variable-scope) (3 results) (Low)
